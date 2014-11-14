@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BD GP Guidelines</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_disease">Select your disease</string>
+    <string name="tvOutput">Here is the text description</string>
+    <string name="view">View</string>
+    <string name="search_hlnt">Search disease name here</string>
+    <string name="tvAuto">Search your Disease</string>
+    <string name="pneumonia">
+        <![CDATA[
+        
+        <h1><i> Pneumonia</i></h1>
+        <br>
+        <h5><u>Clinical Finding</u></h5>
+      
+        
+        1. High grade fever<br> 
+        2. Short history<br>
+        3. Chest pain<br>
+        4. With of without caugh<br>
+        5. Tender on percussion<br>
+        6. Bronchial breath sound<br>
+        7. Creps present<br><br>
+        
+        <h5><u>Investigation</u></h5>
+        
+        
+        1. CBC : Neutrophilic leukocytosis, if high ESR consider TB or carcinoma<br>
+        2. CXR PA view : pneumonic consolidation<br>
+        3. Sputum for AFB<br>
+        4. MT<br><br>
+        
+        <h5><u>Treatment</u></h5>
+        
+        
+        1. Tab Moxaclav 625 mg 1+1+1. For 2 weeks<br>
+        2. Tab Clarin 500 mg 1+0+1, for 2 weeks<br>
+        3. Cap omeprazole 20 mg 1+0+1<br>
+        
+        <p><font color = "red">If patient is severe ill and toxic consider I/V antibiotic </font> </p>
+        <br>
+        
+        <h5><u>Advice</u></h5>
+        
+        CXR and CBC after 2 weeks of antibiotic treatment<br><br>
+        
+        <h5><u>Caution</u></h5>
+        
+         If not resolve think alternative diagnosis like TB, Carcinoma <br><br><br>
+        
+        ]]>
+        
+    </string>
+    
+    <string name = "NotYet">Not Provided Yet</string>
+
+</resources>
